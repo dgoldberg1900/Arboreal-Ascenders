@@ -62,14 +62,14 @@ All Arduino files for the robot and its subsystems are located in the `code/` fo
 
 ## Demonstrations
 
-### Arm Extension
-![Arm Extension](media/arm_extension.gif)
+### Claw Spin Test
+![Claw Spin Test](media/claw_spin_test.gif)
+
+### Claw Pivot Extension
+![Claw Pivot Test](media/claw_pivot_test.gif)
 
 ### Servo Spine Test
-![Servo Spine](media/servo_spine_test.gif)
-
-### Claw Closing
-![Claw Closing](media/claw_closing.gif)
+![Servo Spine Test](media/servo_spine_test.gif)
 
 ### Full Climb Demo
 ▶[Watch full climbing video (MP4)](media/full_climb_demo.mp4)
