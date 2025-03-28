@@ -60,6 +60,22 @@ All Arduino files for the robot and its subsystems are located in the `code/` fo
 
 ---
 
+## Demonstrations
+
+### Arm Extension
+![Arm Extension](media/arm_extension.gif)
+
+### Servo Spine Test
+![Servo Spine](media/servo_spine_test.gif)
+
+### Claw Closing
+![Claw Closing](media/claw_closing.gif)
+
+### Full Climb Demo
+▶[Watch full climbing video (MP4)](media/full_climb_demo.mp4)
+
+---
+
 ## About
 
 This project was created to reduce risks to firefighters and wildlife by using robotic swarms to surround and slow the spread of forest fires. This repository is public to showcase engineering and programming work to potential employers.
